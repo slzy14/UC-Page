@@ -25,7 +25,7 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,pre {
   font-family: "Raleway", sans-serif;
 }
 
@@ -1533,3 +1533,18 @@ section {
 }
 
 
+.qr-box {
+
+  
+  background: url("../img/hei.png") center center no-repeat;
+  background-size: 250px;
+  min-height: 250px;
+}
+
+.qr-box-2 {
+
+  
+  background: url("../img/alumni-update-form.png") center center no-repeat;
+  background-size: 250px;
+  min-height: 250px;
+}
