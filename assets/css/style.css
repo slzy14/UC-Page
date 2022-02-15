@@ -1562,6 +1562,11 @@ section {
   min-height: 500px;
 }
 
+.video-box-3 {
+  background: url("../img/ccje_bg_full.jpg") center center no-repeat;
+  background-size: 600px;
+  min-height: 500px;
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -1632,4 +1637,35 @@ section {
   #hero-2 {
     height: 110vh;
   }
+}
+
+
+/* Box styles */
+.myBlock {
+border: none;
+padding: 5px;
+
+width: 450px;
+height: 450px;
+overflow-y: scroll;
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+width: 15px;
+height: 15px;
+}
+
+::-webkit-scrollbar-track {
+border: 1px solid #014715;
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+background: #014715;  
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: #3f6d47;  
 }
