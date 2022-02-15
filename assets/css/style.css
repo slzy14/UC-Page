@@ -1567,6 +1567,19 @@ section {
   background-size: 600px;
   min-height: 500px;
 }
+
+.video-box-4 {
+  background: url("../img/cte_bg_full.jpg") center center no-repeat;
+  background-size: 600px;
+  min-height: 500px;
+}
+
+.video-box-5 {
+  background: url("../img/citcs_bg_full.jpg") center center no-repeat;
+  background-size: 600px;
+  min-height: 500px;
+}
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
